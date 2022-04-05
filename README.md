@@ -1,16 +1,13 @@
-### Hi there 👋
+<h4>
+   👨‍ Me chamo Carlos Bergamo, sou estudante de Engenharia de Software.
+   </h1>
 
-<!--
-**vaquejano/vaquejano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 #Este github eu criei para estudo e aprendizado, e troca de conhecimento, buscando extrair o melhor da programacao e os desafios do mundo cotidiano.
 
-Here are some ideas to get you started:
+🧑‍💻#Quero estar sempre evoluindo e aprendendo com quem quer seguir a mesma jornada mesmo que falando a "_linguagem unica universal_".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Epero que o meu conteudo possa agregar a evolucao do seu conhecimento..
+<h4>
+Não tenha medo de recomeçar.
+Dessa vez você não começará do zero, você começará da sua experiência. By "Mariana Salomao".
+  </h4>
